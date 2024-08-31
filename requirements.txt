@@ -1,0 +1,3 @@
+pandas
+scikit-surprise==1.1.4
+numpy==1.26.4
