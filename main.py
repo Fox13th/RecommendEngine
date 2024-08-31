@@ -67,3 +67,4 @@ if __name__ == '__main__':
     recommendations = recomend_data.get_recommendations(user_id, n_recommendations=3)
 
     logger.info(f'Рекомендации для пользователя: {recommendations}')
+
